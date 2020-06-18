@@ -1,0 +1,5 @@
+[run]
+include = drag_and_drop_ajax_lists_with_django/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
